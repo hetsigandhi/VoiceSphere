@@ -1,0 +1,65 @@
+# Flutter related
+**/build/
+**/ios/Flutter/.last_build_id
+**/.dart_tool/
+**/.pub-cache/
+**/.packages
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/pubspec.lock
+
+# Android related
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+
+# iOS related
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/Flutter.framework/
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Flutter.xcframework/
+**/ios/Flutter/Debug.xcconfig
+**/ios/Flutter/Release.xcconfig
+**/ios/Flutter/App.framework/
+**/ios/Flutter/engine/
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/*.plist
+
+# Visual Studio Code
+.vscode/
+.idea/
+
+# IntelliJ related
+*.iml
+.idea/
+
+# Other IDEs and Editors
+*.swp
+*.swo
+*.swn
+
+# macOS related
+**/macos/Flutter/ephemeral/
+
+# Web related
+**/web/manifest.json
+**/web/.dart_tool/
+**/web/.flutter-plugins
+**/web/.flutter-plugins-dependencies
+
+# Windows related
+**/windows/flutter/ephemeral/
+
+# Linux related
+**/linux/flutter/ephemeral/
+
+# Dart
+*.dart.js
+*.dart.js.deps
+*.dart.js.map
+*.info.json
+
+# Miscellaneous
+.DS_Store
+.dart_tool/
